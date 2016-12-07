@@ -1,0 +1,88 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"css/common.css",
+			"examples/setting.html",
+			"examples/card.html",
+			"examples/pullrefresh_with_tab.html",
+			"examples/pullrefresh_with_tab_webview.html"
+		],
+		"refer": [
+			"examples/setting.html",
+			"pages/index/setting.html",
+			"examples/card.html",
+			"examples/lazyload-image.html",
+			"examples/pullrefresh_with_tab.html",
+			"examples/pullrefresh_with_tab_webview.html"
+		]
+	},
+	"examples/setting.html": {
+		"resources": [
+			"css/feedback.css",
+			"images/logo.png",
+			"js/feedback.js",
+			"js/mui.view.js",
+			"fonts/mui.ttf",
+			"js/mui.min.js",
+			"css/mui.min.css"
+		]
+	},
+	"examples/card.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/yuantiao.jpg",
+			"css/app.css",
+			"images/logo.png",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"fonts/mui.ttf"
+		]
+	},
+	"examples/lazyload-image.html": {
+		"resources": [
+			"images/60x60.gif",
+			"js/mui.lazyload.js",
+			"js/mui.lazyload.img.js",
+			"css/app.css",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"fonts/mui.ttf"
+		]
+	},
+	"pages/index/setting.html": {
+		"resources": [
+			"js/feedback.js",
+			"js/mui.view.js",
+			"css/feedback.css"
+		]
+	},
+	"examples/pullrefresh_with_tab.html": {
+		"resources": [
+			"js/mui.pullToRefresh.js",
+			"js/mui.pullToRefresh.material.js",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"fonts/mui.ttf"
+		]
+	},
+	"examples/pullrefresh_with_tab_webview.html": {
+		"resources": [
+			"js/mui.pullToRefresh.js",
+			"js/mui.min.js",
+			"js/mui.pullToRefresh.material.js",
+			"css/mui.min.css",
+			"js/mui.lazyload.js",
+			"js/mui.lazyload.img.js",
+			"examples/lazyload-image.html",
+			"fonts/mui.ttf"
+		],
+		"refer": [
+			"examples/lazyload-image.html",
+			"examples/setting.html",
+			"examples/card.html"
+		]
+	}
+}
